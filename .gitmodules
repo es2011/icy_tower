@@ -1,0 +1,3 @@
+[submodule "icy_ahk"]
+	path = icy_ahk
+	url = https://github.com/es2011/icy_ahk
