@@ -4,3 +4,6 @@
 [submodule "GyroServer"]
 	path = GyroServer
 	url = https://github.com/Taiwaninja/GyroServer
+[submodule "GyroAndroidClient"]
+	path = GyroAndroidClient
+	url = https://github.com/georgettica/GyroAndroidClient
