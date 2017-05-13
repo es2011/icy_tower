@@ -1,9 +1,12 @@
-[submodule "icy_ahk"]
-	path = icy_ahk
-	url = https://github.com/es2011/icy_ahk
 [submodule "GyroServer"]
 	path = GyroServer
 	url = https://github.com/Taiwaninja/GyroServer
+	branch = master
 [submodule "GyroAndroidClient"]
 	path = GyroAndroidClient
 	url = https://github.com/georgettica/GyroAndroidClient
+	branch = master
+[submodule "icy_ahk"]
+	path = icy_ahk
+	url = https://github.com/es2011/icy_ahk
+	branch = master
